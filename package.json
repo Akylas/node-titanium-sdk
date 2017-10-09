@@ -46,7 +46,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/appcelerator/node-titanium-sdk.git"
+		"url": "git://github.com/Akylas/node-titanium-sdk.git"
 	},
 	"engines": {
 		"node": ">=0.6.6"
